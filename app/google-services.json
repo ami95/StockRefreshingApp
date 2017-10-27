@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "107029827315",
+    "firebase_url": "https://stockrefreshingappfirebase.firebaseio.com",
+    "project_id": "stockrefreshingappfirebase",
+    "storage_bucket": "stockrefreshingappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107029827315:android:32f6a412270aeb11",
+        "android_client_info": {
+          "package_name": "com.example.homer.stockrefreshingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107029827315-tch0juc5vvu9elsnf83tidq8bh4ckfbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homer.stockrefreshingapp",
+            "certificate_hash": "87ec3c7e61c30c6ededfefffc1215b6bdf8a6c50"
+          }
+        },
+        {
+          "client_id": "107029827315-n6k68ot5bn59725aaae4sfeaa3gcta2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcldMTOYpRCXPcdPbAEVkbia0LtntHlFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107029827315-n6k68ot5bn59725aaae4sfeaa3gcta2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

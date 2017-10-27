@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stockrefreshingappfirebase",
+  "private_key_id": "5b7d64a007104523a19ad57799aa07a162ae54a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgeWpmBzXeKqnW\ngC93qkpDB3Sqjpgrh8+axAQ5Lvzh9FV2MXCvrWQ4S1oHAAl5O1cx/vs64dPq9yGL\n2ev5E1wlPVpP4d1vQS0hVTBnRW4bljvRGxkK4XxpIgRxyZvKXT8gRmcSCbI5fgaZ\nfYs2KD/JWwcQYmmp9KRWLkjq4P75bkT2NGNS6ZKo3PRBC0v0oSsD7UdYT/f201oS\ncNkEm8KT2ChwodWeJhlQPHFEyeIrZuhczOpaP0Q+FRd6QKrKthFls1TBTKtIv5kr\nstWs0fPuji40+j8fmNQdFNibldqHbLrMuwG/VRN1cfgplq1pzUDZ90diwu4FapJH\nljmxO0wXAgMBAAECggEAIMD3cxC4sXpyxOnQBnQ3CRxd9yv4qjXjrVqh5AwPqIzm\n3qNztR/Ga2kR3Ijo5hozD2zUWW3bg8NiUPmvXNzTO3Sc2N4ohLtAW2PYZ9O3iCDv\nX5xQzbQ9YPYFAzabuj+zEULdacSZ4Hs1HKIPxoOLlW0jcXgsyfg5jK+QyYQX9s/0\niZAMW7H2++On/hqORwDgzhplCMc0fdvHUchLHn/uO8ySepLfuEYZjDS7MlGf+v+J\n/tyVahBuntJuFOMzNC0kQ7Aq6+Ri1PzAfuXexAbVD/4Pj6a7QddqdL3ub173x4pn\nD4Q7vAlllZZySoEsRNVLXTcMBWH5vfihH6v9O3w+dQKBgQDZT+InjFies+2gsd9v\nAifHtAb7Tfp+gZyUsmGaNC/YifmyRH3R3wHWeaFnKZRvkZdR0RggxJwqM+SFQooJ\nohGtI2PsiJpcLoRyGTm/XLMA+dYEL26+vLjwIj+Cb6sz17hVCCasMWu6HIidriRO\nKb9TJ5sNSo/ynYUUFkdOjunDZQKBgQC9Cx6hGOusZJLuIdqa8F2y6Fb/ki5BZEpu\nks+815QF6KFDLSOAedsXF6tsat1eYQ6BJrt9c1g9X5K48msx+BeG+BgbC9JNssAE\nz+xLhzyQPspzE7rtZSYQZWzA3rJL2PQHkm6goLFn/Ps7DvkZQLG/ERN9AKF2rMu9\nqvAcR/G/ywKBgDs2+0cPhS5plPzOuzWCfth6A9UCoJlMNCCIovPj+I2muzWKWEaR\n3+xTZFm6CMqF/5e5xDtZl7wgO8rcIMUTNoHZPOc9KeKogkqc+RFd7yD68whc7G5o\n+nPkwS2HxDzyMTZqbC9LoDEsiUV+KEJsOcgs6KEsiiDwL00T7QZJBwXJAoGBAICq\nGc2xhW3PAgXbusqrgEptQhEuMBdHqDU77PHtlAy1eVScW0ZtKYW9EWp4DXTYACQ8\n9Wz73XngG5+PNxBKd9Df+KAn2poRaAmebog1Yi4W3nmWWyqKJm8QaQWYTKe84NJq\ngqsG09gf4eofVcEvPAr8F1SD4mFAWGcd+dB10v8jAoGAULJ+bQfdQ5vWnXz0qFPs\nZGeP0LdA2pM/NFoocRB2byracZO9TSAJlVwXceygIiJJ0+x9IXiHYe7rQBPV8+Us\nZBNJ87TOWNgKrmKkkmBDvsr1Ce4NoHeDVEUGj086cDcRXwfiFxX7/bc1/KlD1d0p\nlnMFLL5GJ/PjmOYp1B9F6yA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "todo-servlet@stockrefreshingappfirebase.iam.gserviceaccount.com",
+  "client_id": "106126651922682856955",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/todo-servlet%40stockrefreshingappfirebase.iam.gserviceaccount.com"
+}
